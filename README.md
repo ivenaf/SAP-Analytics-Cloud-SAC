@@ -1,8 +1,8 @@
-# SAP-Analytics-Cloud-SAC
+# SAP-Analytics-Cloud-SAC - SCRIPTING
 
 To be found here: 
 
-Tutorials (basic scripts) for additional functionalities in SAC:
+Tutorials (for basic scripting) in SAC:
 
 - Info Popups
 - Dropdown menus	
