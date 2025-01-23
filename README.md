@@ -1,6 +1,6 @@
 # SAP-Analytics-Cloud-SAC
 
-TO be found here: 
+To be found here: 
 
 Tutorials (basic scripts) for additional functionalities in SAC:
 
